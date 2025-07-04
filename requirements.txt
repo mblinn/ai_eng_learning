@@ -1,0 +1,4 @@
+# requirements.txt
+# Required dependencies for wikipedia_dataset_getter.py
+
+datasets>=2.0.0
